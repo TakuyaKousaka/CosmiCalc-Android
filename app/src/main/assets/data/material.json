@@ -1,0 +1,59 @@
+﻿// Cosmos
+{id:1,name:"Hidora Cosmos"}
+{id:2,name:"Fudara Cosmos"}
+{id:3,name:"Midoro Cosmos"}
+{id:4,name:"Yoguru Cosmos"}
+{id:5,name:"Idzuru Cosmos"}
+{id:6,name:"Mubaru Cosmos"}
+{id:7,name:"Ones Cosmos"}
+{id:8,name:"Twode Cosmos"}
+{id:9,name:"Threede Cosmos"}
+{id:10,name:"Fourda Cosmos"}
+
+// Chips
+{id:11,name:"Red Chip"}
+{id:12,name:"Blue Chip"}
+{id:13,name:"Yellow Chip"}
+{id:14,name:"Green Chip"}
+{id:15,name:"Black Chip"}
+{id:16,name:"Rainbow Chip"}
+
+// Other
+{id:17,name:"Power Amp"}
+{id:18,name:"Stabilizer"}
+{id:19,name:"Engine Shaft"}
+{id:20,name:"Turbo Charger"}
+{id:21,name:"Brake Damper"}
+{id:22,name:"Physical Stone"}
+{id:23,name:"Strike Metal"}
+{id:24,name:"Scope Lens"}
+{id:25,name:"Rapid Crystal"}
+{id:26,name:"Drum Magazine"}
+{id:27,name:"Shock Graphite"}
+{id:28,name:"Guide Circuit"}
+{id:29,name:"Heat Ash"}
+{id:30,name:"Snail Liquid"}
+{id:31,name:"Prism Glass"}
+{id:32,name:"Acid Gel"}
+{id:33,name:"Hard Plate"}
+{id:34,name:"Hulk Meteorite"}
+
+// Boss Quest
+{id:35,name:"Screw Bolts"}
+{id:36,name:"Steel Wheel"}
+{id:37,name:"Miracle Ammonite"}
+{id:38,name:"Shining Feather"}
+
+// Tutorials
+{id:39,name:"Proto Cosmos"}
+
+{id:40,name:"Handa Cosmos"}
+
+//Ex tunes
+{id:41,name:"Generic Element"}
+{id:42,name:"Superior Element"}
+{id:43,name:"Tough Element"}
+{id:44,name:"Power Element"}
+{id:45,name:"Tech Element"}
+{id:46,name:"Run Element"}
+{id:47,name:"Boost Element"}
